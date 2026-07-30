@@ -1,0 +1,1 @@
+.Link--primary{background-image:linear-gradient(var(--color-accent-fg),var(--color-accent-fg));background-position:0 100%;background-repeat:no-repeat;background-size:0 2px;transition:background-size .2s ease}.Link--primary:hover{background-size:100% 2px}
