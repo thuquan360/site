@@ -2,432 +2,178 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thuquan360.com/archives/2024-08/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/archives/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/categories/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/git/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/github/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-15/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/categories/tools/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/version-control/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/archives/2024-07/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/categories/development/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/nextjs/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/react/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-14/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/ssr/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/archives/2024-06/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/api/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/graphql/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/rest/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-13/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/archives/2024-05/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/cloud/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/categories/devops/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/kubernetes/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/microservices/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-12/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/archives/2024-04/</loc>
-    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/categories/database/</loc>
-    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/database/</loc>
-    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/performance/</loc>
-    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/postgresql/</loc>
-    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-11/</loc>
-    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/archives/2024-03/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/authentication/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/oauth/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-10/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/categories/security/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/security/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/archives/2024-02/</loc>
-    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/automation/</loc>
-    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/jest/</loc>
-    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-9/</loc>
-    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/categories/testing/</loc>
-    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/testing/</loc>
-    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/archives/2024-01/</loc>
+    <loc>http://localhost:1313/archives/2024-01/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/demo/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/categories/documentation/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/gfm/</loc>
+    <loc>http://localhost:1313/tags/demo/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/posts/gfm-demo/</loc>
+    <loc>http://localhost:1313/categories/documentation/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/gfm/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/blogging/</loc>
+    <loc>http://localhost:1313/posts/gfm-demo/</loc>
+    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/blogging/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/categories/general/</loc>
+    <loc>http://localhost:1313/categories/general/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/getting-started/</loc>
+    <loc>http://localhost:1313/tags/getting-started/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/primer/</loc>
+    <loc>http://localhost:1313/tags/primer/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/posts/welcome/</loc>
+    <loc>http://localhost:1313/posts/welcome/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/posts/getting-started-with-hugo/</loc>
+    <loc>http://localhost:1313/posts/getting-started-with-hugo/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/jamstack/</loc>
+    <loc>http://localhost:1313/tags/jamstack/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/ssg/</loc>
+    <loc>http://localhost:1313/tags/ssg/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/static-site/</loc>
+    <loc>http://localhost:1313/tags/static-site/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/categories/tutorial/</loc>
+    <loc>http://localhost:1313/categories/tutorial/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/css/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/categories/design/</loc>
+    <loc>http://localhost:1313/categories/design/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/design-system/</loc>
+    <loc>http://localhost:1313/tags/design-system/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/posts/primer-css-guide/</loc>
+    <loc>http://localhost:1313/posts/primer-css-guide/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/archives/2023-12/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/deployment/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/devops/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/docker/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-8/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/backend/</loc>
-    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-7/</loc>
-    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/typescript/</loc>
-    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/components/</loc>
-    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/tags/frontend/</loc>
-    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-6/</loc>
-    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://thuquan360.com/archives/2023-11/</loc>
+    <loc>http://localhost:1313/archives/2023-11/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/design/</loc>
+    <loc>http://localhost:1313/tags/design/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/responsive/</loc>
+    <loc>http://localhost:1313/tags/responsive/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-5/</loc>
+    <loc>http://localhost:1313/posts/sample-post-5/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/javascript/</loc>
+    <loc>http://localhost:1313/categories/development/</loc>
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/posts/sample-post-4/</loc>
+    <loc>http://localhost:1313/tags/frontend/</loc>
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/tags/tutorial/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://thuquan360.com/about/</loc>
+    <loc>http://localhost:1313/posts/sample-post-4/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
