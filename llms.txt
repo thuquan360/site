@@ -3,5 +3,5 @@
 > Thịn vượng tài chính, Tâm trí an lành
 
 ## Posts
-- [P0 Khai trương Thư Quán 360](https://thuquan360.com/posts/p0-khai-truong-thu-quan-360/index.md): Đôi lời nhân dịp khai trương Thư Quán 360.
-- [Sample Post 7: Lorem Ipsum](https://thuquan360.com/posts/sample-post-7/index.md): This is sample post number 7 for testing pagination functionality.
+- [P0 Khai trương Thư Quán 360](http://localhost:1313/posts/p0-khai-truong-thu-quan-360/index.md): Đôi lời nhân dịp khai trương Thư Quán 360.
+- [Sample Post 7: Lorem Ipsum](http://localhost:1313/posts/sample-post-7/index.md): This is sample post number 7 for testing pagination functionality.
