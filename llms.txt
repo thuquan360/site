@@ -1,6 +1,6 @@
 # Thư Quán 360
 
-> This blog powered by Thư Quán 360
+> Thịn vượng tài chính, Tâm trí an lành
 
 ## Posts
 - [P0 Khai trương Thư Quán 360](https://thuquan360.com/posts/p0-khai-truong-thu-quan-360/index.md): Đôi lời nhân dịp khai trương Thư Quán 360.
