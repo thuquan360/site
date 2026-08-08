@@ -4,4 +4,5 @@
 
 ## Posts
 - [P0 Khai trương Thư Quán 360](http://localhost:1313/posts/p0-khai-truong-thu-quan-360/index.md): Đôi lời nhân dịp khai trương Thư Quán 360.
-- [Sample Post 7: Lorem Ipsum](http://localhost:1313/posts/sample-post-7/index.md): This is sample post number 7 for testing pagination functionality.
+- [P1 Explain Stock Market Part 1 ](http://localhost:1313/posts/p1-explain-stock-market-p1/index.md): Giải thích thị trường chứng khoán-Phần 1
+- [P2 Explain Stock Market Part 2 ](http://localhost:1313/posts/p2-explain-stock-market-p2/index.md): Giải thích thị trường chứng khoán-Phần 2
