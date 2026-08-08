@@ -3,7 +3,4 @@
 > This blog powered by Thư Quán 360
 
 ## Posts
-- [P.0 Khai trương Thư Quán 360](https://thuquan360.com/posts/p.0-khai-tr%C6%B0%C6%A1ng-th%C6%B0-qu%C3%A1n-360/index.md): Đôi lời nhân dịp khai trương Thư Quán 360.
-- [Introduction to Primer CSS](https://thuquan360.com/posts/primer-css-guide/index.md): An introduction to Primer CSS, GitHub's design system.
-- [Sample Post 5: Lorem Ipsum](https://thuquan360.com/posts/sample-post-5/index.md): This is sample post number 5 for testing pagination functionality.
-- [Sample Post 4: Lorem Ipsum](https://thuquan360.com/posts/sample-post-4/index.md): This is sample post number 4 for testing pagination functionality.
+- [P0 Khai trương Thư Quán 360](https://thuquan360.com/posts/p0-khai-truong-thu-quan-360/index.md): Đôi lời nhân dịp khai trương Thư Quán 360.
